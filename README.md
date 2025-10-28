@@ -2,7 +2,7 @@
 
 <h2 align="center">A Frontend and Blockchain Developer</h2>
 
-I build fast, interactive digital experiences that merge creativity with logic, transforming ideas into seamless, scalable products. With a passion for clean design and efficient code, I craft solutions that not only look great but work beautifully and make an impact backed by a proven record of delivering responsive, high-performing web applications that solve real user problems.
+<h3 align="center"> I build fast, interactive digital experiences that merge creativity with logic, transforming ideas into seamless, scalable products. With a passion for clean design and efficient code, I craft solutions that not only look great but work beautifully and make an impact backed by a proven record of delivering responsive, high-performing web applications that solve real user problems.</h3>
 
 - You can contact me through my **[LinkedIn](https://www.linkedin.com/in/ayomidetobiloba/)** or via **[Email](mailto:oyetunjitobiloba82@gmail.com)**  
 
