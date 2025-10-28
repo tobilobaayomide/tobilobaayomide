@@ -23,11 +23,6 @@
   <img src="https://avatars.githubusercontent.com/u/139895814?s=200&v=4" alt="shadcn/ui" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/38/React-icon.svg" alt="Context API" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/pmndrs/zustand/main/docs/logo.png" alt="Zustand" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/131029602?s=200&v=4" alt="Recharts" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/122118348?s=200&v=4" alt="Lucide" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/119731271?s=200&v=4" alt="Sonner" width="40" height="40"/>
-
-  <!-- Backend / APIs -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>
   <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="Supabase" width="40" height="40"/>
